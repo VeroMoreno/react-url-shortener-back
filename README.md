@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="./src/assets/readme-cover.png" alt="background"/></div>
+<div style="text-align:center"><img src="/readme-cover.png" alt="background"/></div>
 
 # ⛰ Fuji Url Shortener
 > A simple url shortener
@@ -42,12 +42,12 @@ Endpoints:
 ## 💻 Deployment
 
 In Heroku + MongoDB Atlass
-<a target="_blank" href="https://www.notion.so/Deploy-Mongo-Atlas-Heroku-534adcedca514eccba1805661d98b618">Cheat in Notion</a>
+<a target="_blank" href="https://www.notion.so/Deploy-Mongo-Atlas-Heroku-534adcedca514eccba1805661d98b618">Cheat in Notion but you dont have access!</a>
 
-## Licensing
+### Licensing
 
 GNU GENERAL PUBLIC LICENSE
 
-# Now what?
+### Now what?
 
 This is a project to test some knowledge so it lacks certain verifications
