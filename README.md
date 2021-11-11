@@ -13,6 +13,11 @@ npm run server
 
 You can now access the service at `http://localhost:3003/`.
 
+## Getting started / Heroku + MongoDb Atlas
+
+When is active this run in [Heroku Url](https://react-url-shortener-back.herokuapp.com)
+Dont forget connect your cluster [MongoDB Atlas](https://cloud.mongodb.com/atlas/public/).
+
 ## Developing
 
 ### Technologies / Built With
